@@ -1,5 +1,7 @@
 ### EnderMythex Profile
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=`EnderMythex`&theme=tokyonight)
+
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=EnderMythex&style=for-the-badge">
 </a>
