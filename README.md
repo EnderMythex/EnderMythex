@@ -12,7 +12,8 @@
 
 ## In Dev Project
 Cyber Cookie : https://chromewebstore.google.com/detail/cyber-cookie/kbjidhhmcehbnejmdpgfhnaipenoinjb?hl=fr </p>
-EnderMWebsite : https://github.com/EnderMythex/EnderMWeb
+EnderMWebsite : https://github.com/EnderMythex/EnderMWeb </p>
+Discord-AutoPingMS : https://github.com/EnderMythex/Discord-AutoPingMS
 
 ## Ability / skills
 - Hacking wifi
