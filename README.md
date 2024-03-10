@@ -9,6 +9,7 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=EnderMythex&style=for-the-badge"> <a href="https://github.com/EnderMythex?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EnderMythex?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://twitter.com/EnderMythex7"><img src="https://img.shields.io/twitter/follow/Endermythex7?color=0ff00&label=%40kimocoder&logo=twitter&logoColor=White&style=for-the-badge"></a>
 </a>
 </div>
 
