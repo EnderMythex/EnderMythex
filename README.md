@@ -5,10 +5,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnderMythex&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=EnderMythex&style=for-the-badge"> <a href="https://github.com/EnderMythex?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EnderMythex?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </a>
+</div>
 
 ## In Dev Project
 Cyber Cookie : https://chromewebstore.google.com/detail/cyber-cookie/kbjidhhmcehbnejmdpgfhnaipenoinjb?hl=fr </p>
