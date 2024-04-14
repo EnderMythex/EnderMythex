@@ -19,7 +19,7 @@ EnderMWebsite : https://github.com/EnderMythex/EnderMWeb </p>
 Discord-AutoPingMS : https://github.com/EnderMythex/Discord-AutoPingMS
 
 ## Ability / skills
-- Hacking wifi
+- Hacking wifi (SFR EXPLOIT & WPS EXPLOIT)
 - Virtualization test
 - Some knowledge of CSS, HTML and JAVASCRIPT
 - Some knowledge of virus creation
