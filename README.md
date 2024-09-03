@@ -1,14 +1,10 @@
 <h1>Hi, I'm EnderMythex</h1>
 
-| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31knwi5thrnp5uzvwvai6jtg4sby&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) | [![Discord Presence](https://lanyard.cnrad.dev/api/1006197798577909880)](https://discord.com/users/1006197798577909880) |
-| ------------- | ------------- |
-
-<h1>EnderMythex Stats</h1>
-
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnderMythex&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderMythex&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnderMythex&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <a href="https://discord.com/users/1006197798577909880">
+    <img src="https://lanyard.cnrad.dev/api/1006197798577909880" alt="Discord Presence">
+  </a>
+</div>
 
 <div align="center">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -17,6 +13,13 @@
     <a href="https://twitter.com/Endermythex7"><img src="https://img.shields.io/twitter/follow/Endermythex7?color=236ad3&label=%40EnderMythex7&logo=twitter&logoColor=White&style=for-the-badge"></a>
 </a>
 </div>
+
+<h1>Github Stats</h1>
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnderMythex&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderMythex&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EnderMythex&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>Projects</h2>
 
