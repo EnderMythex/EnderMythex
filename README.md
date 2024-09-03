@@ -35,7 +35,7 @@
 
 Cyber Cookie : https://github.com/EnderMythex/Cyber-Cookie </p>
 
-Ender.pet : https://github.com/EnderMythex/ender.pet/
+EnderMythex.github.io : https://github.com/EnderMythex/EnderMythex.github.io
 
 <h2>Ability / skills</h2>
 
