@@ -39,11 +39,10 @@ EnderMythex.github.io : https://github.com/EnderMythex/EnderMythex.github.io
 
 <h2>Ability / skills</h2>
 
-- Hacking wifi (SFR EXPLOIT & WPS EXPLOIT)
-- Virtualization test
-- Some knowledge of CSS, HTML and JAVASCRIPT
-- Some knowledge of virus creation
+- Wifi Hacking (SFR EXPLOIT & WPS EXPLOIT)
+- Some knowledge of CSS, HTML and JAVASCRIPT for website and extensions creations
 - Familiarity with some hacking and coding tools
+- Learning Website Hacking (XSS, BugBountyHunting &  LFI)
 
 <h2>Tools Used</h2>
 
