@@ -33,9 +33,7 @@
 
 <h2>Projects</h2>
 
-Cyber Cookie : https://github.com/EnderMythex/Cyber-Cookie </p>
-
-EnderMythex.github.io : https://github.com/EnderMythex/EnderMythex.github.io
+See here : https://enderr.win/projects.html
 
 <h2>Ability / skills</h2>
 
