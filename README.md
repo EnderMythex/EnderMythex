@@ -19,7 +19,7 @@ const EnderMythex = {
     "CyberCookie",
     "EnderToolsBox",
     "HTML Viewver",
-    "Html & CSS viewver"
+    "HTML & CSS Code Viewer"
   ]
 };
 ```
