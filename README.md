@@ -18,7 +18,7 @@ const EnderMythex = {
   projectList: [
     "CyberCookie",
     "EnderToolsBox",
-    "HTML Viewver",
+    "Enderr.win",
     "HTML & CSS Code Viewer"
   ]
 };
