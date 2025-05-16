@@ -14,7 +14,13 @@
 
 ```javascript
 const EnderMythex = {
-  projects: "https://enderr.win/projects.html"
+  projects: "https://enderr.win/projects.html",
+  projectList: [
+    "CyberCookie",
+    "EnderToolsBox",
+    "HTML Viewver",
+    "Html & CSS viewver"
+  ]
 };
 ```
 
