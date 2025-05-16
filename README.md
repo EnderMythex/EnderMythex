@@ -1,4 +1,4 @@
-# EnderMythex | He/Him
+# EnderMythex
 
 <div align="center">
   
@@ -10,7 +10,7 @@
   
 </div>
 
-## 💻 About Me
+## 🪛 Projects
 
 ```javascript
 const EnderMythex = {
