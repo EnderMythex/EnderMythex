@@ -35,8 +35,10 @@ jobs:
           # list of files to generate.
           # one file per line. Each output can be customized with options as query string.
           outputs: |
-            github-snake.svg
-            github-snake-dark.svg?palette=github-dark
+            # Fichier pour le thème clair : serpent noir, points en dégradé de gris
+            github-snake.svg?color_snake=black&color_dots=#CCCCCC,#999999,#666666,#333333,#000000
+            # Fichier pour le thème sombre : serpent blanc, points en dégradé de gris clair
+            github-snake-dark.svg?color_snake=white&color_dots=#FFFFFF,#F0F0F0,#DCDCDC,#C8C8C8,#B4B4B4
             
       - name: Push generated files to repository
         run: |
