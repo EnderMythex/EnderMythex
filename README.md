@@ -8,10 +8,10 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/EnderMythex/EnderMythex/main/profile-summary-card-output/github_light/0-profile-details.svg" height="170" alt="Profile Details" />
   <img src="https://raw.githubusercontent.com/EnderMythex/EnderMythex/main/profile-summary-card-output/github_light/2-most-commit-language.svg" height="170" alt="Top Languages" />
-</p>
+</p> -->
 
 <div align="center">
   <picture>
@@ -21,18 +21,18 @@
   </picture>
 </div>
 
-## 🪛 Projects
 
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://github.com/EnderMythex/HTML-CSS-Code-Viewer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnderMythex&repo=HTML-CSS-Code-Viewer&bg_color=151515&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=true" height="120" alt="HTML-CSS-Code-Viewer" />
   </a>
   <a href="https://github.com/EnderMythex/Cyber-Cookie">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnderMythex&repo=Cyber-Cookie&bg_color=151515&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=true" height="120" alt="Cyber-Cookie" />
   </a>
-</p>
+</p> -->
 
-## 🌌 Contact
+<p>                 </p>
 
 <div align="center">
 
