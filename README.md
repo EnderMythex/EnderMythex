@@ -1,4 +1,6 @@
-# EnderMythex
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EnderMythex/EnderMythex/main/header.svg" alt="EnderMythex Logo" />
+</div>
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
