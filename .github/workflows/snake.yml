@@ -22,7 +22,7 @@ jobs:
           # Ici, je force le serpent en BLANC (#ffffff) et les points en GRIS/BLANC
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#ffffff&color_dots=#161b22,#161b22,#30363d,#6e7681,#ffffff
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#161b22,#161b22,#30363d,#6e7681,#ffffff
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#161b38,#161b22,#30363d,#6e7681,#ffffff
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
