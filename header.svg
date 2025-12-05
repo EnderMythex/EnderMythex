@@ -1,6 +1,6 @@
-<svg width="400" height="90" xmlns="http://www.w3.org/2000/svg">
+<svg width="350" height="80" xmlns="http://www.w3.org/2000/svg">
   <style>
-    /* Style des lettres EnderMythex */
+    /* Style des lettres : Blanc, Gras, Police sans-serif */
     .letter { 
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
       font-weight: 800; 
@@ -8,37 +8,20 @@
       fill: #FFFFFF; 
       text-anchor: middle;
     }
-    
-    /* Style du texte Japonnais (Vertical) */
-    .jp-letter {
-      font-family: 'Hiragino Kaku Gothic Pro', 'Meiryo', sans-serif;
-      font-weight: 600;
-      font-size: 18px; 
-      fill: #A0A0A0; /* Un gris clair pour faire subtil */
-      text-anchor: middle;
-    }
   </style>
   
   <rect width="100%" height="100%" fill="transparent"/>
 
-  <text x="30"  y="60" class="letter" transform="rotate(-8, 30, 60)">E</text>
-  <text x="55"  y="60" class="letter" transform="rotate(5, 55, 60)">n</text>
-  <text x="80"  y="60" class="letter" transform="rotate(-5, 80, 60)">d</text>
-  <text x="105" y="60" class="letter" transform="rotate(8, 105, 60)">e</text>
-  <text x="130" y="60" class="letter" transform="rotate(-3, 130, 60)">r</text>
+  <text x="30"  y="50" class="letter" transform="rotate(-8, 30, 50)">E</text>
+  <text x="55"  y="50" class="letter" transform="rotate(5, 55, 50)">n</text>
+  <text x="80"  y="50" class="letter" transform="rotate(-5, 80, 50)">d</text>
+  <text x="105" y="50" class="letter" transform="rotate(8, 105, 50)">e</text>
+  <text x="130" y="50" class="letter" transform="rotate(-3, 130, 50)">r</text>
   
-  <text x="165" y="60" class="letter" transform="rotate(6, 165, 60)">M</text>
-  <text x="195" y="60" class="letter" transform="rotate(-6, 195, 60)">y</text>
-  <text x="220" y="60" class="letter" transform="rotate(4, 220, 60)">t</text>
-  <text x="245" y="60" class="letter" transform="rotate(-4, 245, 60)">h</text>
-  <text x="270" y="60" class="letter" transform="rotate(7, 270, 60)">e</text>
-  <text x="295" y="60" class="letter" transform="rotate(-9, 295, 60)">x</text>
-
-  <text x="360" y="25" class="jp-letter">よ</text>
-  <text x="360" y="45" class="jp-letter">う</text>
-  <text x="360" y="65" class="jp-letter">こ</text>
-  <text x="360" y="85" class="jp-letter">そ</text>
-  
-  <line x1="345" y1="20" x2="345" y2="85" style="stroke:rgb(100,100,100);stroke-width:2" />
-
+  <text x="165" y="50" class="letter" transform="rotate(6, 165, 50)">M</text>
+  <text x="195" y="50" class="letter" transform="rotate(-6, 195, 50)">y</text>
+  <text x="220" y="50" class="letter" transform="rotate(4, 220, 50)">t</text>
+  <text x="245" y="50" class="letter" transform="rotate(-4, 245, 50)">h</text>
+  <text x="270" y="50" class="letter" transform="rotate(7, 270, 50)">e</text>
+  <text x="295" y="50" class="letter" transform="rotate(-9, 295, 50)">x</text>
 </svg>
