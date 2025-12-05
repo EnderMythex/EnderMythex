@@ -9,8 +9,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnderMythex&show_icons=true&bg_color=151515&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnderMythex&layout=donut&theme=graywhite&bg_color=151515&border_color=FFFFFF&text_color=FFFFFF&title_color=FFFFFF&hide_border=true" height="160" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/EnderMythex/EnderMythex/main/profile-summary-card-output/github_light/0-profile-details.svg" height="170" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/EnderMythex/EnderMythex/main/profile-summary-card-output/github_light/2-most-commit-language.svg" height="170" alt="Top Languages" />
 </p>
 
 <div align="center">
