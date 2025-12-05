@@ -8,10 +8,10 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnderMythex&show_icons=true&bg_color=151515&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" height="180" alt="EnderMythex's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnderMythex&layout=donut&theme=graywhite&bg_color=151515&border_color=FFFFFF&text_color=FFFFFF&title_color=FFFFFF" height="180" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnderMythex&show_icons=true&bg_color=151515&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnderMythex&layout=donut&theme=graywhite&bg_color=151515&border_color=FFFFFF&text_color=FFFFFF&title_color=FFFFFF&hide_border=true" height="160" alt="Languages" />
+</p>
 
 <div align="center">
   <picture>
@@ -23,14 +23,14 @@
 
 ## 🪛 Projects
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/EnderMythex/HTML-CSS-Code-Viewer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnderMythex&repo=HTML-CSS-Code-Viewer&bg_color=151515&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&show_icons=true" alt="HTML-CSS-Code-Viewer Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnderMythex&repo=HTML-CSS-Code-Viewer&bg_color=151515&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=true" height="120" alt="HTML-CSS-Code-Viewer" />
   </a>
   <a href="https://github.com/EnderMythex/Cyber-Cookie">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnderMythex&repo=Cyber-Cookie&bg_color=151515&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&show_icons=true" alt="Cyber-Cookie Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnderMythex&repo=Cyber-Cookie&bg_color=151515&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=true" height="120" alt="Cyber-Cookie" />
   </a>
-</div>
+</p>
 
 ## 🌌 Contact
 
