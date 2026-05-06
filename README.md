@@ -43,3 +43,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=EnderMythex&style=for-the-badge&color=333333&logo=github&logoColor=white)](https://github.com/EnderMythex)
 
 </div>
+
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/gtolontop?chart=3dbar&gap=0.2&scale=5&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=cyan&widget_size=large&colors=001f3f,003566,004c99,0066cc,007fff,3399ff,66b2ff,99ccff&dark=true">
+</div>
