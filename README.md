@@ -41,7 +41,7 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/EnderMythex?style=for-the-badge&color=333333&logo=github&logoColor=white)](https://github.com/EnderMythex)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Endermythex7?&label=%40EnderMythex7&logo=x&style=for-the-badge&color=333333&logoColor=white)](https://twitter.com/Endermythex7)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Endermythex_?&label=%40EnderMythex_&logo=x&style=for-the-badge&color=333333&logoColor=white)](https://twitter.com/Endermythex_)
 [![Profile Views](https://komarev.com/ghpvc/?username=EnderMythex&style=for-the-badge&color=333333&logo=github&logoColor=white)](https://github.com/EnderMythex)
 
 </div>
